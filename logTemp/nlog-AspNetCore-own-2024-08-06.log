@@ -1,0 +1,8 @@
+{ "time": "2024-08-06 21:58:15.6064", "event": "0", "level": "DEBUG", "logger": "Logging1.Program", "message": "init main" }
+{ "time": "2024-08-06 21:58:17.3366", "event": "14", "level": "INFO", "logger": "Microsoft.Hosting.Lifetime", "message": "Now listening on: https://localhost:7114", "address": "https://localhost:7114", "EventId": 14, "EventName": "ListeningOnAddress" }
+{ "time": "2024-08-06 21:58:17.3454", "event": "14", "level": "INFO", "logger": "Microsoft.Hosting.Lifetime", "message": "Now listening on: http://localhost:5256", "address": "http://localhost:5256", "EventId": 14, "EventName": "ListeningOnAddress" }
+{ "time": "2024-08-06 21:58:17.3454", "event": "0", "level": "INFO", "logger": "Microsoft.Hosting.Lifetime", "message": "Application started. Press Ctrl+C to shut down." }
+{ "time": "2024-08-06 21:58:17.3454", "event": "0", "level": "INFO", "logger": "Microsoft.Hosting.Lifetime", "message": "Hosting environment: Development", "EnvName": "Development" }
+{ "time": "2024-08-06 21:58:17.3454", "event": "0", "level": "INFO", "logger": "Microsoft.Hosting.Lifetime", "message": "Content root path: D:\\smartdata\\OnionArchitecture\\Logging1", "ContentRoot": "D:\\smartdata\\OnionArchitecture\\Logging1" }
+{ "time": "2024-08-06 21:59:23.4811", "event": "0", "level": "DEBUG", "logger": "Logging1.Controllers.WeatherForecastController", "message": "Nlog is integrated to weather controller", "url": "https://localhost/WeatherForecast", "action": "Create" }
+{ "time": "2024-08-06 21:59:23.5934", "event": "0", "level": "ERROR", "logger": "Logging1.Controllers.WeatherForecastController", "message": "Attempted to divide by zero.", "url": "https://localhost/WeatherForecast", "action": "Create" }
